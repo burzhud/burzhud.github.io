@@ -7270,5 +7270,12 @@ header {
   color: white; }
   /* line 12, site.css.scss */
   header a, header a:active, header a:hover, header a:visited {
+    font-size: 2em;
     color: white;
     text-decoration: none; }
+
+/* line 19, site.css.scss */
+footer {
+  text-align: center;
+  background-color: #573d7d;
+  color: white; }
